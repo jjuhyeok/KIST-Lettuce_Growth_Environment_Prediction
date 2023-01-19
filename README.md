@@ -1,6 +1,6 @@
 # DACON_lettuce
 
-Public score 1st 0.07214 | Private score 4rd 0.07303
+Public score 1st 0.07214 | Private score 4rd 0.07303 | 최종 2등
 
 주최 : KIST
 
