@@ -1,7 +1,7 @@
 # KIST_Lettuce-Growth-Environment-Prediction  [(Link)](https://dacon.io/competitions/official/236033/overview/description)
 
 ## 😃 Result
-- **Public score** 1st 3.16772 | **Private score** 4th 7.65751 | 최종 2등
+- **Public score** 1st 3.16772 | **Private score** 4th 7.65751 | **최종 2등**
 
 주최 : KIST
 
