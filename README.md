@@ -128,10 +128,22 @@ Kalman filter
 
 **Predict Model**
 ```
-Autogluon
+AutoML: Autogluon, pycarat
 Catboost
+```
+**Generative Model**
+```
+CTGAN
+GAN
 ```
 
 
-===========================================================================
+
+## 📖 Reference
+CTGAN  
+https://arxiv.org/abs/1907.00503  
+https://github.com/sdv-dev/CTGAN  
+
+생육환경  
+https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP08069532&dbt=NPAP
 
