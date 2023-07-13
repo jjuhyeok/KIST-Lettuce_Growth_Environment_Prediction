@@ -10,6 +10,7 @@
 규모 : 약 800여명 참가
 
 
+<img width="100%" src="https://github.com/jjuhyeok/KIST_Lettuce-Growth-Environment-Prediction/assets/49608953/13126173-812b-40a9-a6fa-6cedfabe1aed"/>
 
 # 상추의 생육 환경 생성 AI 경진대회
 
