@@ -11,8 +11,8 @@
 <img width="100%" src="https://github.com/jjuhyeok/KIST_Lettuce-Growth-Environment-Prediction/assets/49608953/13126173-812b-40a9-a6fa-6cedfabe1aed"/>
 
 
-같이 참여했던 팀원분의 개발 블로그를 보던 중 발견한 감동적인 글..
-나의 기여를 알아 주셔서 정말 감사했다.. 더 열심히 하게 되는 원동력..
+같이 참여했던 팀원분의 개발 블로그를 보던 중 발견한 감동적인 글..  
+나의 기여를 알아 주셔서 정말 감사했다.. 더 열심히 하게 되는 원동력..  
 
 
 # 상추의 생육 환경 생성 AI 경진대회
